@@ -4,8 +4,6 @@
 
 memode (mm) grammar for tree-sitter.
 
-For Rust usage see the [crate README][rust readme].
-
 ## References
 
 - [Tree-sitter docs][tree-sitter docs]
