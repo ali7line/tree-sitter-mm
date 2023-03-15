@@ -1,6 +1,6 @@
 # tree-sitter-lua
 
-[![build status](https://github.com/Azganoth/tree-sitter-lua/actions/workflows/ci.yml/badge.svg)](https://github.com/Azganoth/tree-sitter-lua/actions/workflows/ci.yml)
+[![Build/test](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml/badge.svg)](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml)
 
 memode grammar for tree-sitter.
 
