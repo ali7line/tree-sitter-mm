@@ -1,6 +1,6 @@
 # tree-sitter-mm
 
-[![Build/test](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml/badge.svg)](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml)
+[![Build/test](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml)
 
 memode (mm) grammar for tree-sitter.
 
