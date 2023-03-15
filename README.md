@@ -1,8 +1,8 @@
-# tree-sitter-lua
+# tree-sitter-mm
 
 [![Build/test](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml/badge.svg)](https://github.com/ali7line/tree-sitter-mm/actions/workflows/ci.yml)
 
-memode grammar for tree-sitter.
+memode (mm) grammar for tree-sitter.
 
 For Rust usage see the [crate README][rust readme].
 
