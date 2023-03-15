@@ -1,0 +1,16 @@
+.DS_Store
+
+package-lock.json
+Cargo.lock
+
+/node_modules
+/build
+/.build
+/target
+
+*.obj
+*.exp
+*.lib
+
+*.log
+log*.html
